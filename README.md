@@ -13,4 +13,5 @@ Create a .env file with data in config and run npi i to download all dependencie
 
 Must have working server with database running sql and run node index.js for inquirer manager
 
+https://drive.google.com/file/d/1FD2lK_kryXk9WgjTe9MfKZsk6F7NqM8p/view
 https://github.com/zelada5574/employeetracker
