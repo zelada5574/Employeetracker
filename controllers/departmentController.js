@@ -1,6 +1,5 @@
 const connection = require("../config");
 
-// Get all departments
 const getAllDepartments = async (req, res) => {
   try {
     const [rows] = await connection.query("SELECT * FROM department;");

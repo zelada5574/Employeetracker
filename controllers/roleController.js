@@ -1,6 +1,5 @@
 const connection = require("../config");
 
-// Get all roles
 const getAllRoles = async (req, res) => {
   try {
     const [rows] = await connection.query(
