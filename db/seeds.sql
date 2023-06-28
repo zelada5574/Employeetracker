@@ -19,7 +19,7 @@ VALUES ("Eligibility", 55000, 1),
     ("Plan Document Specialist", 85000, 3),
     ("Project Manager", 100000, 7);
 
-INSERT INTO EMPLOYEE (first_name, last_name, role_id, manager_id)
+INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES ("Jaryot", "Ramirez", 1, "Tina"),
     ("Allyson", "Harris", 4, "Tina"),
     ("Tina", "Vasen", 2, ""),

@@ -1,6 +1,5 @@
 const inquirer = require("inquirer");
-// import inquirer from "inquirer";
-// import consoleTable from "console.table";
+const consoleTable = require("console.table");
 
 const questions = () => {
   inquirer
